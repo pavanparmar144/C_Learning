@@ -5,4 +5,4 @@
 *.exe
 *.7z
 *.zip
-
+.gitignore
